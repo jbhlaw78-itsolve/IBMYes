@@ -104,8 +104,8 @@ install(){
     VMESSCODE=$(base64 -w 0 << EOF
     {
       "v": "2",
-      "ps": "jbhlaw",
-      "add": "jbhlaw.us-south.cf.appdomain.cloud",
+      "ps": "ibmyes",
+      "add": "ibmyes.us-south.cf.appdomain.cloud",
       "port": "443",
       "id": "${UUID}",
       "aid": "4",
